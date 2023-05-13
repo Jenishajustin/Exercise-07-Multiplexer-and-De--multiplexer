@@ -1,6 +1,8 @@
 # Exercise-07-Multiplexer-and-De-multiplexer
-### AIM: To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
+### AIM: 
+To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
+### HARDWARE REQUIRED:  
+– PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
 
@@ -90,25 +92,25 @@ endmodule
 ```
 ### RTL LOGIC  
 #### MULTIPLEXER
+![mux4 rtl](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/ef2911e1-3e2f-4837-bcc4-bc50b76cdc13)
 
-
-
-
-
-
-
+#### DEMULTIPLEXER
+![demux4 rtl](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/4c77466c-457f-465a-8634-eaf8aa3b864a)
 
 ### TIMING DIGRAMS  
 
+#### MULTIPLEXER
+![mux4 time](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/ba8fca6a-0667-4bdd-89da-b5253c6a3dc5)
 
-
-
+#### DEMULTIPLEXER
+![demux4 time](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/dcb54658-06ac-41b4-a854-e22ae7d913a3)
 
 ### TRUTH TABLE 
+#### MULTIPLEXER
+![mux truth](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/b61988cb-90e3-4d40-a15b-078050fedb35)
 
-
-
-
-
+#### DEMULTIPLEXER
+![demux truth](https://github.com/Jenishajustin/Exercise-07-Multiplexer-and-De--multiplexer/assets/119405070/5fcac1a8-29bb-462f-89a8-0a100b4d5cd7)
 
 ### RESULTS 
+Thus the program to design multiplexer and de-multiplexer is successfully completed.
